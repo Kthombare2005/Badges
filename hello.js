@@ -1,1 +1,1 @@
-concole.log("Hello")
+const pair = "extraordinaire";
